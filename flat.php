@@ -1,4 +1,5 @@
 ﻿<?php
+
 class Flat { // класс квартир  
 		  public $num; 	
 		  public $kol_room; 
@@ -33,6 +34,7 @@ class Flat { // класс квартир
 			$stroka.="<td>" . $this->ras_kvpl() . "</td><td>" . $this->ras_otopl() . " </td><td>" . $this->ras_hol() . " </td><td>" 
 			. $this->ras_gor() . " </td><td>" . $this->itog() . " </td></tr>";
 			return $stroka;
+			
 			/*
 		   $fl_pr = " <p><b><i>Квартира № $this->num</i></b></p>
 		   <p>Количество комнат $this->kol_room</p>
