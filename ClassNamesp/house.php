@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 namespace ClassNamesp;
 
 class House {  // класс домов
