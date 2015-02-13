@@ -1,4 +1,6 @@
 ﻿<?php
+namespace ClassNamesp;
+
 class Street {  //класс улиц
 		  public $name; 	
 		  public $lenth_st; 

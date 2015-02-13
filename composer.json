@@ -1,0 +1,16 @@
+﻿{
+	"name": "helen/sett",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/HelenTh/settlement.git"
+		}
+	],
+	"version": "master",
+	"autoload": {
+		"psr-0": {
+			"ClassNamesp": ""
+		}
+	}
+
+}

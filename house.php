@@ -1,4 +1,6 @@
 ﻿<?php
+namespace ClassNamesp;
+
 class House {  // класс домов
 		  public $num; 	
 		  public $kol_floor; 

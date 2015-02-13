@@ -1,4 +1,6 @@
 ﻿<?php
+namespace ClassNamesp;
+
 class Settle {  //класс нас. пункт
 		  public $name; 	
 		  public $koord; 

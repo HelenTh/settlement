@@ -1,4 +1,5 @@
 ﻿<?php
+namespace ClassNamesp;
 
 class Flat { // класс квартир  
 		  public $num; 	
