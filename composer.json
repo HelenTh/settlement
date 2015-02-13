@@ -9,7 +9,7 @@
 	"version": "master",
 	"autoload": {
 		"psr-0": {
-			"ClassNamesp": ""
+			"ClassNamesp\\": ""
 		}
 	}
 
